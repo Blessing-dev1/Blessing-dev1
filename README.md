@@ -1,8 +1,11 @@
-Hi, I’m Blessing A Sithole @Blessing-dev1
-I’m interested in software development and engineering
-I’m currently learning the IBM Full Stack Software Developer Professional Certificate and trying to develop some applications using online resources and AI
-I’m looking to collaborate on software development projects
-Reach me at addingtonbsitho@gmail.com or @Blessing-dev1
+Hi, I’m Blessing A Sithole (@Blessing-dev1).
+
+I’m passionate about software development and engineering, currently expanding my skills through the IBM Full Stack Software Developer Professional Certificate. I enjoy building innovative applications by leveraging online resources and AI technologies.
+
+I’m eager to collaborate on exciting software projects and contribute to impactful solutions.
+
+Feel free to connect with me at addingtonbsitho@gmail.com or on GitHub @Blessing-dev1.
+
 Pronouns: He/Him
 
 ⚡ Fun fact: If others can do it, why not me?
