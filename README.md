@@ -1,4 +1,4 @@
-Hi, I’m @Blessing-dev1
+Hi, I’m Blessing A Sithole @Blessing-dev1
 I’m interested in software development and engineering
 I’m currently learning the IBM Full Stack Software Developer Professional Certificate and trying to develop some applications using online resources and AI
 I’m looking to collaborate on software development projects
