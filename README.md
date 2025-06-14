@@ -1,4 +1,4 @@
-Hi, I’m Blessing A Sithole (@Blessing-dev1).
+Hi, I’m Blessing A. Sithole (@Blessing-dev1).
 
 I’m passionate about software development and engineering, currently expanding my skills through the IBM Full Stack Software Developer Professional Certificate. I enjoy building innovative applications by leveraging online resources and AI technologies.
 
